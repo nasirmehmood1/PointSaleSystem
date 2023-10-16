@@ -358,6 +358,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                     SizedBox(
                       height: height * 0.05,
+                      
                       width: width * 0.3,
                       child: TextFormField(
                         focusNode: customerNameFocusNode,
